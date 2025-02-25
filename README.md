@@ -1,4 +1,4 @@
-![Dirsane Anthehun](https://yourwebsite.com/yourphoto.jpg)
+![Dirsane Anthehun](githubPhoto.jpg)
 
 # Hey 👋, I'm Dirsane Anthehun
 
