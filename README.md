@@ -28,7 +28,7 @@
 
 ## 🌍 Connect With Me
 - 📧 Email: [dirsanantehun739@gmail.com](mailto:dirsanantehun739@gmail.com)
-- 🌐 Portfolio: [dirsanantehun.netlify.app](https://dirsan-antehun.vercel.app/)
+- 🌐 Portfolio: [https://dirsan-antehun-portfolio.vercel.app/](https://dirsan-antehun-portfolio.vercel.app/)
 - 💼 GitHub: [github.com/DirsanA](https://github.com/DirsanA)
 
 🚀 Always learning, always building! Let's connect and create something amazing! 😃
