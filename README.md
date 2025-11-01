@@ -1,34 +1,58 @@
-# Hey 👋, I'm Dirsane Anthehun
+# 👋 Hello, I'm Dirsan Antehun!
 
-## About Me
-✨ Creating bugs since I started coding!<br>
-📚 Currently learning: Advanced Software Engineering Concepts & AI/ML<br>
-🎯 Goals: Building innovative and scalable tech solutions<br>
-🎲 Fun fact: I can turn caffeine into code ☕💻
+### 💫 About Me
+- 🚀 **Full-Stack Developer** passionate about creating impactful web solutions
+- 🌱 Currently mastering **Advanced Software Engineering & AI/ML Concepts**
+- 👯 Looking to collaborate on **innovative MERN stack projects**
+- 💡 Ask me about **web development, competitive programming, or startup ecosystems**
+- 📫 Reach me at: **dirsanantehun739@gmail.com**
+- ⚡ **Fun fact:** I can turn caffeine into code ☕💻 and I'm co-founder of WKUCPC!
 
-## 🔥 Experience
-- MERN Stack Developer | Incubation | Wolkite University Computer Programming Club (WKUCPC)
-- Co-founder of WKUCPC | Competitive Programming, Web Development & Self-Improvement
-- Developed a Virtual Internship Platform for Wolkite University using the MERN stack
-- Worked remotely as an intern for Awura Technology
-- Currently doing an onsite internship as a software engineering student at Alyah Software
+## 🛠️ Tech Stack & Tools
 
-## 🛠️ I Code With
-<div align="left">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+### **Frontend Mastery**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+
+### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Development Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## 💼 Experience
+- **MERN Stack Developer** | Incubation | WKUCPC
+- **Co-founder** | Wolkite University Computer Programming Club
+- **Software Engineering Intern** | Alyah Software
+- **Remote Intern** | Awura Technology
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=DirsanA&show_icons=true&theme=radical&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=DirsanA&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DirsanA&theme=radical&hide_border=true&layout=compact)
+
 </div>
 
-## 🌍 Connect With Me
-- 📧 Email: [dirsanantehun739@gmail.com](mailto:dirsanantehun739@gmail.com)
-- 🌐 Portfolio: [https://dirsan-anttehun.com](https://dirsan-antehun-portfolio.vercel.app/)
-- 💼 GitHub: [github.com/DirsanA](https://github.com/DirsanA)
+## 🌐 Let's Connect!
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dirsan-antehun-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dirsan-antehun)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dirsanantehun739@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DirsanA)
 
-🚀 Always learning, always building! Let's connect and create something amazing! 😃
+---
+<div align="center">
+  
+🚀 *Always learning, always building! Let's connect and create something amazing!* 😃
+
+</div>
