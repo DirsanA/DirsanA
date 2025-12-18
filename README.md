@@ -1,12 +1,18 @@
 # 👋 Hello, I'm Dirsan Antehun!
 
-### 💫 About Me
-- 🚀 **Full-Stack Developer** passionate about creating impactful web solutions
-- 🌱 Currently mastering **Advanced Software Engineering & AI/ML Concepts**
-- 👯 Looking to collaborate on **innovative MERN stack projects**
-- 💡 Ask me about **web development, competitive programming, or startup ecosystems**
-- 📫 Reach me at: **dirsanantehun739@gmail.com**
-- ⚡ **Fun fact:** I can turn caffeine into code ☕💻 and I'm co-founder of WKUCPC!
+💼 Experience
+
+Mentor | WE Code Computer Programming Club
+Guiding students in web development, competitive programming, and tech problem-solving, helping them turn ideas into real projects.
+
+Remote Software Developer | Awura Technology
+Collaborating remotely to build innovative software solutions and contribute to real-world projects.
+
+Full-Stack Intern | Alyah Software
+Hands-on experience in MERN stack development, working on full-stack applications and learning industry-grade practices.
+
+Co-founder | Wolkite University Computer Programming Club (WKUCPC)
+Established a student-led community to promote programming, web development, and self-improvement workshops.
 
 ## 🛠️ Tech Stack & Tools
 
