@@ -12,8 +12,6 @@
 
 📫 Reach me at: dirsanantehun739@gmail.com
 
-⚡ Fun fact: I can turn caffeine into code ☕💻 and I co-founded WKUCPC, promoting tech innovation among students
-
 ## 🛠️ Tech Stack & Tools
 
 ### **Frontend Mastery**
