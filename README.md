@@ -68,7 +68,6 @@ My experience includes developing production-oriented web applications, integrat
 **Full-Stack Developer Intern — Alyah Software Development PLC**
 - Contributed to the development of a digital healthcare appointment management platform.
 
-**Spring Boot Microservices Intern — INSA**
 
 **Co-founder & Programming Instructor — WE Code Computer Programming Club**
 - Supported programming education, student collaboration, and practical software development activities.
